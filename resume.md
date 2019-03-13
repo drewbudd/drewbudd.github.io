@@ -5,7 +5,7 @@ title: Resume
 ![Profile Image]({{ site.url }}/{{ site.picture-resume }})
 
 <div class="navi">
-    <a href="#education">Education</a> - <a href="#workexp">Work Experience</a> - <a href="#devskills">Dev Skills</a> - <a href="#engagement">Engagement</a>
+    <a href="#education">Education</a> - <a href="#workexp">Work Experience</a> - <a href="#devskills">Dev Skills</a> - <a href="#projects">Projects</a> - <a href="#engagement">Engagement</a>
 </div>
 
 <p></p>
