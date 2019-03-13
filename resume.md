@@ -82,6 +82,6 @@ title: Resume
 	<li><strong>ready.study.stuttgart Buddy Program</strong><br>
     Summer semester 2018-Winter semester 2018/19</li>
     <li><strong>Intercultural Mentoring Program</strong><br>
-    Witer semester 2016/17 as mentee<br>
+    Winter semester 2016/17 as mentee<br>
     Winter semester 2017/18 as mentor</li>
 </ul>
