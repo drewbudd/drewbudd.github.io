@@ -9,7 +9,7 @@ title: Resume
 </div>
 
 <p></p>
-
+---
 <h2><a name="education"></a>Education</h2>
 
 <ul class="skill-list">
@@ -20,7 +20,7 @@ title: Resume
         University of Nebraska-Lincoln<br>
         2006-2010</li>
 </ul>
-
+---
 <h2><a name="workexp"></a>Work Experience</h2>
 
 <ul class="skill-list">
@@ -54,25 +54,28 @@ title: Resume
 	        <li>IT and tech support for students</li>
         </ul>
 </ul>
-
+---
 <h2><a name="devskills"></a>Software Development Skills</h2>
 
 <ul class="skill-list">
 	<li>Git</li>
     <li>Java</li>
+    <li>Android</li>
     <li>Javascript</li>
     <li>HTML</li>
     <li>CSS</li>
     <li>SQL</li>
     <li>UML</li>
 </ul>
-
+---
 <h2><a name="projects"></a>Projects</h2>
 
 <ul>
+    <li><a href="https://github.com/drewbudd/Software-Praktikum-2017-18-Team-11">SoPra Android App</a><br>
+    Third semester project done in teams of 3 (180h of work per member)</li>
 	<li><a href="https://github.com/drewbudd/drewbudd.github.io">Personal Website</a></li>
 </ul>
-
+---
 <h2><a name="engagement"></a>Engagement</h2>
 
 <ul class="skill-list">
