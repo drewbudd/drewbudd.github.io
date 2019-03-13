@@ -71,9 +71,17 @@ title: Resume
 <h2><a name="projects"></a>Projects</h2>
 
 <ul>
-    <li><a href="https://github.com/drewbudd/Software-Praktikum-2017-18-Team-11">SoPra Android App</a><br>
+    <li><a href="/sopra-android-app">SoPra Android App</a>
+    <a href="https://github.com/drewbudd/Software-Praktikum-2017-18-Team-11" target="_blank">
+        <svg class="icon-resume"><use xlink:href="#icon-github"></use></svg>
+    </a>
+    <br>
     Third semester project done in teams of 3 (180h of work per member)</li>
-	<li><a href="https://github.com/drewbudd/drewbudd.github.io">Personal Website</a></li>
+	<li><a href="/personal-webpage">Personal Website</a>
+    <a href="https://github.com/drewbudd/drewbudd.github.io" target="_blank">
+        <svg class="icon-resume"><use xlink:href="#icon-github"></use></svg>
+    </a>
+    </li>
 </ul>
 ---
 <h2><a name="engagement"></a>Engagement</h2>

@@ -12,7 +12,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Further development of a Jekyll theme for my own person page"
 category: project
-author: Andrew
+author: andrew
 externalLink: false
 ---
 
