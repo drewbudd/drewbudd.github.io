@@ -125,6 +125,34 @@ h3 {
   #img-div {
     margin: 0em 1em 1em 1em;
   }
+
+  p {
+    font-size: 1.5em;
+  }
+  
+  h1 {
+    font-size: 4em;
+  }
+  
+  h2 {
+    font-size: 2.2em;
+  }
+  
+  h3 {
+    font-size: 1.9em;
+  }
+  
+  #quote {
+    font-size: 1.2em;
+  }
+  
+  #quote-info {
+    font-size: 1.2em;
+  }
+  
+  #links {
+    font-size: 1.3em;
+  }
 }
 
 @media (max-width: 1200px) {
@@ -136,6 +164,34 @@ h3 {
 @media (max-width: 800px) {
   #main {
     grid-template-columns: auto 90% auto;
+  }
+
+  p {
+    font-size: 1.8em;
+  }
+  
+  h1 {
+    font-size: 4em;
+  }
+  
+  h2 {
+    font-size: 2.5em;
+  }
+  
+  h3 {
+    font-size: 2em;
+  }
+  
+  #quote {
+    font-size: 1.7em;
+  }
+  
+  #quote-info {
+    font-size: 1.7em;
+  }
+  
+  #links {
+    font-size: 1.75em;
   }
 }
 
