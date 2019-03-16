@@ -82,6 +82,11 @@ title: Resume
         <svg class="icon-resume"><use xlink:href="#icon-github"></use></svg>
     </a>
     </li>
+    <li><a href="/tribute-webpage">freeCodeCamp Project: Tribute Website</a>
+    <a href="https://gist.github.com/drewbudd/2455a0be649b82c0db7321835c3d7fcf" target="_blank">
+        <svg class="icon-resume"><use xlink:href="#icon-github"></use></svg>
+    </a>
+    </li>
 </ul>
 ---
 <h2><a name="engagement"></a>Engagement</h2>
